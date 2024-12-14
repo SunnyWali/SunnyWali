@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SunnyWali
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning mongodb
+- 🌱 I’m currently building a project name WanderLust
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 You can reach me by the following link:
 - https://linktr.ee/SunnyWali
