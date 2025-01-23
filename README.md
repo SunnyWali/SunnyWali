@@ -26,10 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunnywali&show_icons=true&locale=en" alt="sunnywali" /></p>
 
-<div>
-  <br clear="both">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunnywali&" alt="sunnywali" />
-</div>
 
 <div>
   <br clear="both">
