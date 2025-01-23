@@ -26,7 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunnywali&show_icons=true&locale=en" alt="sunnywali" /></p>
 <br clear="both">
-<img align="center" src="github-readme-streak-stats.herokuapp.com/?user=sunnywali&" alt="sunnywali" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunnywali&" alt="sunnywali" />
 <div>
   <br clear="both">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" /
