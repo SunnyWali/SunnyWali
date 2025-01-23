@@ -28,7 +28,7 @@
 
 <div>
   <br clear="both">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunnywali&" alt="sunnywali" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunnywali&" alt="sunnywali" />
 </div>
 
 <div>
