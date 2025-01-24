@@ -26,7 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunnywali&show_icons=true&locale=en" alt="sunnywali" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sunnywali" alt="GitHub Streak" /></a>
+<img src="https://streak-stats.demolab.com?user=sunnywali" alt="GitHub Streak" /></a>
 
 <div>
   <br clear="both">
